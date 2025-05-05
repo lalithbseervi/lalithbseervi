@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Django and React projects**
 
-- 👨‍💻 All of my projects are available at [https://www.onetake.pages.dev/]((https://www.onetake.pages.dev/))
+- 👨‍💻 All of my projects are available at [my web portfolio.]((https://www.onetake.pages.dev/))
 
 <!-- - 📝 I regularly write articles on [https://www.xxx.xxx.xxx/](https://www.xxx.xxx.xxx/) -->
 
