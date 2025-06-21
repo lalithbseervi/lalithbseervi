@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalith B Seervi</h1>
-<h3 align="center">Student</h3>
+<h3 align="center">Learning Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxx&label=Profile%20views&color=0e75b6&style=flat" alt="Lalith B Seervi" /> </p>
 
