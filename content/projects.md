@@ -12,7 +12,7 @@ myEarth was born as a project built for the Cosmos V 9.0 hosted by Christ Junior
 
 ---
 
-## [Matrix Solver](./matrix/index.html)
+## [Matrix Solver](./matrix)
 HTML5, CSS3, Javascript
 
 During my studied in 2024, my class was asked if it could build a program to solve for inverse of a matrix. I built a C++ program and, although it worked, I wanted to be able to do a live demo instead of directly show the output's screenshot. 
