@@ -5,7 +5,7 @@ import { i18n } from "../i18n"
 
 const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
   // const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
-  const title = 'find stuff below'
+  const title = 'home'
   const baseDir = pathToRoot(fileData.slug!)
   return (
     <h2 class={classNames(displayClass, "page-title")}>

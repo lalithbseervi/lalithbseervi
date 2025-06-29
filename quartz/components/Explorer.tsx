@@ -118,35 +118,9 @@ export default ((userOpts?: Partial<Options>) => {
           </svg>
         </button>
         <div class="explorer-content" aria-expanded={false}>
-          <OverflowList class="explorer-ul" />
           <ul className="explorer-ui">
-            <li>
-              <a href="https://devspace.pythonanywhere.com/home/" target="_blank" rel="noopener">
-                Personal Blog
-              </a>
-            </li>
-            <li>
-              <a href="https://l4lith.pythonanywhere.com/" target="_blank" rel="noopener">
-                myEarth
-              </a>
-            </li>
-            <li>
-              <a href="https://onetake.pages.dev/dist/matrix/index.html" target="_blank" rel="noopener">
-                Matrix Solver
-              </a>
-            </li>
-            <li>
-              <a href="https://onetake.pages.dev/dist/ascii-cam/index.html" target="_blank" rel="noopener">
-                ASCII Cam
-              </a>
-            </li>
-            <li>
-              <a href="https://onetake.pages.dev/dist/fourier-transform/dist/index.html" target="_blank" rel="noopener">
-                Fourier Transform
-              </a>
-            </li>
+            <OverflowList class="explorer-ul" />
           </ul>
-
         </div>
         <template id="template-file">
           <li>

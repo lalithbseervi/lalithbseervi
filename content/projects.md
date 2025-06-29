@@ -1,3 +1,9 @@
+---
+title: projects
+date: 2025-06-24
+description: see best of what I've built so far
+---
+
 ## [Personal Blog](https://devspace.pythonanywhere.com/home/)
 Django, Python, Javascript, sqlitedb, Git, Pythonanywhere | January 2025 - June 2025
 
