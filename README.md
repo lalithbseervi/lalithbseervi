@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [my blog site](https://devspace.pythonanywhere.com/home)
 
-- 📫 How to reach me **[@lalithbseervi](https://linkedin.com/in/lalithbseervi)**
+- 📫 How to reach me: **[@lalithbseervi](https://linkedin.com/in/lalithbseervi)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +35,7 @@
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
         <code><img height="32" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-        <code><img height="16" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/320px-MongoDB-Logo.svg.png"></code>
+        <code><img height="38" src="https://github.com/user-attachments/assets/8f77ec48-3ef2-4f72-bd99-b02703c00406" /></code>
       </span>
     </td>
   </tr>
