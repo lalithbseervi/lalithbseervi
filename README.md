@@ -73,10 +73,12 @@
     <td>
       <h6>Database as a Service(DaaS)</h6>
       <span>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/supabase/supabase/blob/112cc89c3dda441afef414777fde41b41576b555/packages/common/assets/images/supabase-logo-icon.png)"></code>
+        <code><img height="32" src="https://github.com/supabase/supabase/blob/112cc89c3dda441afef414777fde41b41576b555/packages/common/assets/images/supabase-logo-icon.png)"></code>
         <code><img height="32" src="https://avatars.githubusercontent.com/u/71347074?s=200&v=4)"></code>
       </span>
     </td>
+  </tr> 
+  <tr>
     <td>
       <h6>Other</h6>
       <span>
@@ -85,5 +87,5 @@
         <code><img height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
       </span>
     </td>
-  </tr> 
+  </tr>
 </table>
