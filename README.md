@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lalith B Seervi</h1>
 <h3 align="center">Passionate Software Developer, Bengaluru</h3>
 
-- 🔭 I’m currently working on [Eventloop](https://github.com/event-xyz/event-xyz/tree/feat/lalith)
+- 🔭 I’m currently working on [pes-bca](https://pes-bca.pages.dev/)
 
-- 🌱 I’m currently learning **Gin and Next.js**
+- 🌱 I’m currently learning **React and Next.js**
 
 - 👨‍💻 All of my projects are available on [my web-portfolio](https://lalithbseervi.pages.dev)
 
