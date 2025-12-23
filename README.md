@@ -35,7 +35,6 @@
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
         <code><img height="32" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-        <code><img height="38" src="https://github.com/user-attachments/assets/8f77ec48-3ef2-4f72-bd99-b02703c00406" /></code>
       </span>
     </td>
   </tr>
