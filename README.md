@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalith B Seervi</h1>
 <h3 align="center">Passionate Software Developer, Bengaluru</h3>
 
-- 🔭 I’m currently working on [pes-bca](https://github.com/lalithbseervi/pes-bca)
+- 🔭 I’m currently working on [lmsu](https://github.com/lalithbseervi/pes-bca-next)
 
 - 🌱 I’m currently learning **React and Next.js**
 
