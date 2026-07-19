@@ -17,4 +17,4 @@ This is my digital garden / wiki, alongside a little about my [work](/projects).
 
 - [Linkedin](https://linkedin.com/in/lalithbseervi)
 - [Github](https://github.com/lalithbseervi)
-- [Email][mailto:lalithbseervi@gmail.com]
+- [Email](mailto:lalithbseervi@gmail.com)
