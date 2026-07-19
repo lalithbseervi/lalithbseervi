@@ -235,7 +235,7 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
       <body data-slug={slug}>
-        <div id="quartz-root" class="page">
+        <div id="quartz-root" class="page" style={{textWrap: "pretty"}}>
           <Body {...componentData}>
             {LeftComponent}
             <div class="center">
