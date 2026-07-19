@@ -3,6 +3,27 @@ title: projects
 date: 2025-06-24
 description: see best of what I've built so far
 ---
+## [TAMS | PESU](https://tams.pes.edu)
+Next.js, AdonisJS, PostgreSQL, Docker | Feb. 2026 - July 2026
+
+This has been without a doubt the most complex project I've worked on so far. Primarily handling backend and security, I was responsible for developing the authentication and authorization mechanisms, APIs and database schemas. Additionally, I also took on frontend development tasks here and there.
+
+My most important learnings included:
+
+- How to containerize a fullstack app and deploy it using Docker
+- How to decouple a service (in this case it was a mailing service) from the API controllers, and implementing a basic retry mechanism along with incremental backoff for failed mail sending attempts.
+- Why Server Sent Events (SSEs) exist, and when and how to use them
+- Integrating Object Storage for better static file management
+- Hardening via implementing CSP headers, rate limits for certain endpoints, and more.
+
+---
+
+## [Eventloop | HSP](https://github.com/event-xyz/event-xyz/tree/feat/lalith)
+Next.js, Gin, CouchbaseDB, Google OAuth | July 2025 - August 2025 |[Blogpost](https://homebrew.hsp-ec.xyz/posts/tilde-4.0-eventloop/)
+
+Over the course of roughly 4-5 weeks, I gained exposure to working with Next.js. This project involved a lot of firsts, including using a NoSQL database, using Gin web framework, integrating Google OAuth, and more. Much thanks to HSP mentors for their guidance and support.
+
+---
 
 ## [Personal Blog](https://devspace.pythonanywhere.com/home/)
 Django, Python, Javascript, sqlitedb, Git, Pythonanywhere | January 2025 - June 2025
