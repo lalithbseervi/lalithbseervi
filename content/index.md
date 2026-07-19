@@ -16,7 +16,3 @@ updated: 2025-06-29
 
 - [Linkedin](https://linkedin.com/in/lalithbseervi)
 - [Github](https://github.com/lalithbseervi)
-
-<div>
-    <p><i>Last updated: Jun 29, 2025</i></p>
-</div>
