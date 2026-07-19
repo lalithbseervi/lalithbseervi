@@ -1,19 +1,19 @@
-# Quartz v4
+<h1 align="center">Hi 👋, I'm Lalith B Seervi</h1>
+<h3 align="center">Passionate Software Developer, Bengaluru</h3>
 
 - 🔭 I’m currently working on [lmsu](https://github.com/lalithbseervi/pes-bca-next)
 
 - 🌱 I’m currently learning **React and Next.js**
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+- 👨‍💻 All of my projects are available on [my web-portfolio](https://lalithbseervi.pages.dev)
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- 📝 I regularly write articles on [my blog site](https://devspace.pythonanywhere.com/home)
 
-## Sponsors
+- 📫 How to reach me: **[@lalithbseervi](https://linkedin.com/in/lalithbseervi)**
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lalithbseervi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalithbseervi" height="30" width="40" /></a>
 </p>
 
 ### Skills
