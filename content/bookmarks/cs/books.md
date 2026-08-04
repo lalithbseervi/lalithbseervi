@@ -5,6 +5,7 @@ title: CS books
 ## Distributed Systems
 
 1. [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/)
+2. [Distributed Systems: For Fun and Profit](https://book.mixu.net/distsys/single-page.html)
 
 ## Javascript
 
