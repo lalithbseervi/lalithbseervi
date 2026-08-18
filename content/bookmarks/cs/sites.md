@@ -25,6 +25,7 @@ title: CS sites
 
 1. [notes on algos (DSA, Design Patterns, etc.)](https://github.com/labuladong/fucking-algorithm/)
 2. [explain cp-algorithms](https://cp-algorithms.com)
+3. [dsa course](https://sp18.datastructur.es/)
 
 ---
 
@@ -66,6 +67,8 @@ title: CS sites
 
 1. [Guide to broadcast channel web API](https://www.telerik.com/blogs/ultimate-guide-broadcast-channel-api#browser-compatibility)
 2. [wesbos | guide to learning js](https://wesbos.com/javascript)
+3. [yjs.dev -- collaborative site dev library](https://yjs.dev/)
+4. [automerge.org -- offline syncing library](https://automerge.org/)
 
 ---
 

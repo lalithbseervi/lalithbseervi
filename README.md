@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lalith B Seervi</h1>
 <h3 align="center">Passionate Software Developer, Bengaluru</h3>
 
-- 🔭 I’m currently working on [lmsu](https://github.com/lalithbseervi/pes-bca-next)
+- 🔭 I’m currently working on [tams](https://tams.pes.edu/)
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **Clean Code and Architecture**
 
 - 👨‍💻 All of my projects are available on [my web-portfolio](https://lalithbseervi.pages.dev)
 
