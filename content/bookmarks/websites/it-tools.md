@@ -9,3 +9,5 @@ title: it tools
 3. [method.ac | bezier game, letter spacing, letter shaping, colors game, vector operations game](https://method.ac/)
 4. [it-tools.tech | generate UUIDs, json diff, etc.](https://it-tools.tech/)
 5. [cssgridgenerator.io](https://cssgridgenerator.io/)
+6. [barkod.studio](https://barkod.studio)
+7. [apps.ankiweb.net](https://apps.ankiweb.net/)

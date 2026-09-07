@@ -13,11 +13,15 @@ title: CS sites
 
 ---
 
+### FOSS
+
+1. [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)
+
+---
+
 ### Interview Helpers
 
-1. [paperdraw.dev -- system design simulator](https://paperdraw.dev/)
-2. [system design practice](https://dinamos.vercel.app/)
-3. [aptitude questions and basic interview prep](https://www.indiabix.com/)
+1. [aptitude questions and basic interview prep](https://www.indiabix.com/)
 
 ---
 
@@ -91,6 +95,10 @@ title: CS sites
 ### System Design
 
 1. [Let's handle 1 Million Requests Per Second](https://www.youtube.com/watch?v=W4EwfEU8CGA)
+2. [fanout.sh/system/overview](https://fanout.sh/system/overview)
+3. [paperdraw.dev -- system design simulator](https://paperdraw.dev/)
+4. [breakscale.tech](https://breakscale.tech/)
+5. [system design practice](https://dinamos.vercel.app/)
 
 ---
 
