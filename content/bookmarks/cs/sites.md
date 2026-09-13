@@ -13,12 +13,6 @@ title: CS sites
 
 ---
 
-### FOSS
-
-1. [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)
-
----
-
 ### Interview Helpers
 
 1. [aptitude questions and basic interview prep](https://www.indiabix.com/)
@@ -38,12 +32,15 @@ title: CS sites
 1. [Raft (Explainer)](https://thesecretlivesofdata.com/raft/)
 2. [latentflip -- javascript code execution visualisation](http://latentflip.com/loupe/)
 3. [jsv9000.app -- javascript code execution visualisation](https://www.jsv9000.app/)
+4. [loggingsucks -- how to do logging right](https://loggingsucks.com)
 
 ---
 
 ### Documentations and References
 
 1. [devdocs.io](https://devdocs.io/)
+2. [learnxinyminutes](https://learnxinyminutes.com/)
+3. [overapi -- collection of cheatsheets](https://overapi.com/)
 
 ---
 
@@ -79,26 +76,17 @@ title: CS sites
 ### Design and Architecture
 
 1. [Clean architecture on frontend by bespoyasov](https://bespoyasov.me/blog/clean-architecture-on-frontend/)
-2. [Clean Architecture in Next.js](https://youtu.be/jJVAla0dWJo)
-3. [refactoring.guru](https://refactoring.guru/)
-
----
-
-### Software Engineering
-
-1. [Casey Muratori – The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025](https://youtu.be/wo84LFzx5nI)
-2. [Refterm Lecture Part 1 - Philosophies of Optimization](https://youtu.be/pgoetgxecw8)
-3. [The Only Unbreakable Law](https://youtu.be/5IUj1EZwpJY) (about Conway's Law relating output to org structure)
+2. [refactoring.guru](https://refactoring.guru/)
+3. [awesome architecture -- collection on distributed systems, sfw architecture, etc.](https://awesome-architecture.com/)
 
 ---
 
 ### System Design
 
-1. [Let's handle 1 Million Requests Per Second](https://www.youtube.com/watch?v=W4EwfEU8CGA)
-2. [fanout.sh/system/overview](https://fanout.sh/system/overview)
-3. [paperdraw.dev -- system design simulator](https://paperdraw.dev/)
-4. [breakscale.tech](https://breakscale.tech/)
-5. [system design practice](https://dinamos.vercel.app/)
+1. [fanout.sh/system/overview](https://fanout.sh/system/overview)
+2. [paperdraw.dev -- system design simulator](https://paperdraw.dev/)
+3. [breakscale.tech](https://breakscale.tech/)
+4. [system design practice](https://dinamos.vercel.app/)
 
 ---
 
@@ -107,8 +95,3 @@ title: CS sites
 1. [primer.style](https://primer.style/css/storybook/?path=/docs/introduction--docs)
 
 ---
-
-### misc
-
-1. [free for devs](https://github.com/ripienaar/free-for-dev?tab=readme-ov-file#paas)
-2. [cs video courses](https://github.com/Developer-Y/cs-video-courses)
