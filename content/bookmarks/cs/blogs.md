@@ -1,5 +1,5 @@
 ---
-title: CS blogs
+title: blogs
 ---
 
 1. [Open Social AT Protocol | Introductory Blog](https://overreacted.io/open-social/)

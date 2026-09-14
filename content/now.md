@@ -6,7 +6,7 @@ Here's a quick peek into what I'm currently building, reading, and learning in g
 
 ---
 
-## Recently Watched
+## Recently Watched (more at [watchlist](/bookmarks/cs/watchlist))
 
 1. [Keynote: After the AI Hype – What’s Real, and What’s Next - Richard Campbell - 2026](https://youtu.be/uWnUnMphmPM)
 2. [Clean Architecture in Next.js](https://youtu.be/jJVAla0dWJo)
@@ -25,6 +25,6 @@ Here's a quick peek into what I'm currently building, reading, and learning in g
 
 ---
 
-## Currently Building
+<!-- ## Currently Building
 
-- [TAMS](https://tams.pes.edu/)
+- -->

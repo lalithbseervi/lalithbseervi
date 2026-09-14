@@ -1,5 +1,5 @@
 ---
-title: CS books
+title: books
 ---
 
 ## Distributed Systems

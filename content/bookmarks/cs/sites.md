@@ -1,5 +1,5 @@
 ---
-title: CS sites
+title: sites
 ---
 
 ### Illustrations and Drawings
@@ -40,8 +40,6 @@ title: CS sites
 
 1. [devdocs.io](https://devdocs.io/)
 2. [learnxinyminutes](https://learnxinyminutes.com/)
-3. [overapi -- collection of cheatsheets](https://overapi.com/)
-
 ---
 
 ### UI / UX

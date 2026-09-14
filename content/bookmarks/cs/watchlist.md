@@ -20,6 +20,7 @@ title: youtube watchlist
 
 ---
 
-### Talks and Conferences
+### Talks, Conferences, Keynotes
 
 1. [Casey Muratori – The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025](https://youtu.be/wo84LFzx5nI)
+2. [Keynote: After the AI Hype – What’s Real, and What’s Next - Richard Campbell - 2026](https://youtu.be/uWnUnMphmPM)
