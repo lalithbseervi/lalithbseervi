@@ -10,3 +10,4 @@ title: miscellaneous
 6. [zooniverse.org -- contribute to research](zooniverse.org)
 7. [murdle.com -- murder mysteries](murdermystery.com)
 8. [arvindguptatoys](arvindguptatoys.com)
+9. [typelit.io](https://www.typelit.io/)
