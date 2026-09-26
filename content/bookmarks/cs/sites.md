@@ -47,6 +47,8 @@ title: sites
 1. [component.gallery](https://component.gallery/)
 2. [reactbits.dev](https://reactbits.dev/get-started/index)
 3. [mapcn](https://mapcn.vercel.app/docs/installation)
+4. [loading state library](https://libraries.dev/orbs)
+5. [collection of ui libraries](https://toolfolio.com/)
 
 ---
 
@@ -62,12 +64,13 @@ title: sites
 
 ---
 
-### JS
+### JS / JSX / TSX
 
 1. [Guide to broadcast channel web API](https://www.telerik.com/blogs/ultimate-guide-broadcast-channel-api#browser-compatibility)
 2. [wesbos | guide to learning js](https://wesbos.com/javascript)
 3. [yjs.dev -- collaborative site dev library](https://yjs.dev/)
 4. [automerge.org -- offline syncing library](https://automerge.org/)
+5. [react canvases](https://try.tldraw.com/)
 
 ---
 
@@ -85,6 +88,12 @@ title: sites
 2. [paperdraw.dev -- system design simulator](https://paperdraw.dev/)
 3. [breakscale.tech](https://breakscale.tech/)
 4. [system design practice](https://dinamos.vercel.app/)
+
+### Authentication Solutions
+
+1. [WorkOS](https://workos.com/)
+2. [authentik](https://goauthentik.io/)
+3. [BetterAuth](https://better-auth.com/)
 
 ---
 

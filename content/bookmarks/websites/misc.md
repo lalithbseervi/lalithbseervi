@@ -11,3 +11,9 @@ title: miscellaneous
 7. [murdle.com -- murder mysteries](murdermystery.com)
 8. [arvindguptatoys](arvindguptatoys.com)
 9. [typelit.io](https://www.typelit.io/)
+
+### job portals
+
+1. [supersourcing](https://supersourcing.com/)
+2. [teksands.ai](https://teksands.ai/)
+3. [d4hire.in](https://d4hire.in/)

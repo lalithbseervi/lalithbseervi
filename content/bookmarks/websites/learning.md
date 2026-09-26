@@ -19,3 +19,4 @@ title: learning
 13. [marginal value theorem](https://en.wikipedia.org/wiki/Marginal_value_theorem)
 14. [value functions of humans vs LLMs](https://www.instagram.com/reel/DW4Yg3-ktmA/)
 15. [Novikov self-consistency principle](https://en.wikipedia.org/wiki/Novikov_self-consistency_principle)
+16. [Montessori education](https://en.wikipedia.org/wiki/Montessori_education) -- [ref](https://www.instagram.com/reel/Dae8KZkBKQn/?stkn=eTdoNHpoejFja2sz)
